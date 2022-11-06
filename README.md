@@ -1,9 +1,5 @@
 # Read Me
 
-## [👀 Live-Server](https://.netlify.app)
-
-<img src="./preview.png" alt="">
-
 ---
 
 ### Table of Contents 👋
@@ -18,13 +14,17 @@
 
 ## Description
 
-This project is an input validation with a styling.
+This project is my first attemp to do a login form with python.
 
 #### Technologies <img src="https://github.com/Wissem-Zidi/icons/blob/main/technologies.svg" alt="🛠️" height="20">
 
-- HTML 5
-- CSS 3
-- Java Script
+- Python 3.11
+- sha256 hashing
+- Python Lib :
+  - hashlib
+  - json
+  - string
+  - re
 
 [Back To The Top](#read-me)
 
@@ -34,11 +34,11 @@ This project is an input validation with a styling.
 
 #### Installation <img src="https://github.com/Wissem-Zidi/icons/blob/main/settings.svg" alt="" height="25">
 
-#### API Reference <img src="https://github.com/Wissem-Zidi/icons/blob/main/api.svg" alt="" height="25">
+download the source code and just launch the app.py file
 
-```html
-<p>dummy code</p>
-```
+#### Requirement <img src="https://github.com/Wissem-Zidi/icons/blob/main/api.svg" alt="" height="25">
+
+- python
 
 [Back To The Top](#read-me)
 
